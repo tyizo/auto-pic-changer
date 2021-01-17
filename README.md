@@ -12,5 +12,5 @@ By @1xm0d Tyizo
 <br>
 <hr>
 <h2>Note: </h2>
-<h5>Be sure that you put the pics in a file ( photo ) </h5>
-<small>You can put millions of photos.</small>
+<code>Be sure that you put the pics in a file ( photo ) </code>
+<code>You can put millions of photos.</code>
