@@ -8,9 +8,9 @@ By @1xm0d Tyizo
 <br>
 2 - Write the password username .
 <br>
-3 - After that put a sleep ( seconds ) ,
+3 - After that put a sleep ( seconds ) .
 <br>
 <hr>
+<h2>Note: </h2>
 <h5>Be sure that you put the pics in a file ( photo ) </h5>
-<br>
 <small>You can put millions of photos.</small>
