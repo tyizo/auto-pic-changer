@@ -4,13 +4,13 @@ By @1xm0d Tyizo
 <h3>With Source Code. </h3>
 <h2> How To Use : </h2>
 <br>
-First you write the username .
+1 - First you write the username .
 <br>
-then write the password username .
+2 - Write the password username .
 <br>
-after that put a sleep ( seconds ) ,
+3 - After that put a sleep ( seconds ) ,
 <br>
-be sure that you put the pics in a file ( photo ) ,
+<hr>
+<h5>Be sure that you put the pics in a file ( photo ) </h5>
 <br>
-you can put millions of photos.
-
+<small>You can put millions of photos.</small>
