@@ -1,7 +1,6 @@
 # Auto Pic Changer IG
 Auto Instagram Avatar Changer 
 By @1xm0d Tyizo
-<br>
 <h3>With Source Code. </h3>
 First you write the username ,
 then write the password username , 
