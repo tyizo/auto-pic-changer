@@ -1,5 +1,5 @@
 # Auto Pic Changer IG
-Auto Instagram Avatar Changer . <br> By @1xm0d Tyizo
+Auto Instagram Avatar Changer . <br> By @1xm0d Tyizo.
 <h3>With Source Code. </h3>
 <h2> How To Use : </h2>
 <br>
